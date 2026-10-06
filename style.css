@@ -1,0 +1,31 @@
+/* Configura a página */
+body {
+    margin: 0;
+    padding: 30px;
+
+    /* Fundo claro */
+    background-color: #f5f5f5;
+
+    /* Centraliza o conteúdo */
+    text-align: center;
+
+    /* Fonte simples */
+    font-family: Arial, sans-serif;
+}
+
+/* Título */
+h1 {
+    color: #333;
+}
+
+/* Estilo da tela do jogo */
+canvas {
+    background-color: #ffffff;
+
+    /* Borda do jogo */
+    border: 2px solid #333;
+
+    /* Centraliza o Canvas */
+    display: block;
+    margin: 20px auto;
+}
